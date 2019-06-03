@@ -40,7 +40,7 @@ for sheet in list_temp:
     
 list_temp2[0]
 
-## Col_M 和 Col_S的比较
+## Col_M 和 Col_S的比較
 
 
 Col_M_S = list(set(list_temp2[0]) & set(list_temp2[1]))
